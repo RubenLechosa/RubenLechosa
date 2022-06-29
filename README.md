@@ -36,4 +36,4 @@ A **Web DEVELOPER** and **IT Technician** 🚀.
 <br>
 
 
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+![](https://komarev.com/ghpvc/?username=RubenLechosa&color=green)
