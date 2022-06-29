@@ -36,4 +36,4 @@ A **Web DEVELOPER** and **IT Technician** 🚀.
 <br>
 
 
-![](https://komarev.com/ghpvc/?username=RubenLechosa&color=green)
+![](https://komarev.com/ghpvc/?username=RubenLechosa&color=green&style=for-the-badge)
