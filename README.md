@@ -22,7 +22,7 @@ A **Web DEVELOPER** and **IT Technician** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently studing a Web Developer FP at ILERNA.
-- 🌱 I’m currently exploring JAVA with big interest in JAVA applets, Data Structures and Algorithms. 
+- 🌱 I’m currently exploring Laravel and Angular. 
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [rubenlechosa@gmail.com].
