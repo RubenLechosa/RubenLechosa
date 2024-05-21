@@ -1,10 +1,10 @@
 <h3 title="hehehe"> Hey 👋, I'm Ruben Lechosa!</h3>
 
-<a href="https://www.linkedin.com/in/ruben-lechosa-cervantes-690149153/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/rubenlechosa/">
+  <img align="left" alt="Ruben's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/_ruben_lechosa/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/rlechosa1/">
+  <img align="left" alt="Ruben's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -21,12 +21,11 @@ A **Web DEVELOPER** and **IT Technician** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently studing a Web Developer FP at ILERNA.
-- 🌱 I’m currently exploring Laravel and Angular. 
+- 👨🏽‍💻 I’m currently studing a Computer Engineering Degree at UDL.
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [rubenlechosa@gmail.com].
-- 🌐 My website [https://www.rubenlechosa.me/].
+- 🌐 My website [https://www.rubenlechosa.com/].
 
 
 
